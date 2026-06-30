@@ -23,7 +23,7 @@ repository               : "shobhitpbh/shobhitpbh.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/shobhitpbh.png"
+  avatar           : "shobhitpbh.png"
   name             : "Shobhit Gupta"
   pronouns         : # example: "she/her"  
   bio              : "Researcher at Indian Institute of Management Bangalore"
